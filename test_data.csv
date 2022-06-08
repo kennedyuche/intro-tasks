@@ -1,0 +1,201 @@
+area_code,area_name,occupation_code,occupation_title,total_months,employee_count,employer_count,male_count,female_count,tenure_0_to_2_years_cnt
+10180,"Abilene, TX",11-1021.00,General and Operations Managers,21,67,29,33,33,34
+10180,"Abilene, TX",11-2022.00,Sales Managers,21,31,23,20,11,14
+10180,"Abilene, TX",11-3031.02,"Financial Managers, Branch or Department",6,12,8,6,7,6
+10180,"Abilene, TX",11-3051.00,Industrial Production Managers,1,10,6,9,1,5
+10180,"Abilene, TX",11-9111.00,Medical and Health Services Managers,10,13,6,4,10,8
+10180,"Abilene, TX",11-9199.00,"Managers, All Other",21,35,17,21,14,16
+10180,"Abilene, TX",13-2011.01,Accountants,4,11,6,1,10,7
+10180,"Abilene, TX",13-2072.00,Loan Officers,1,10,5,6,4,5
+10180,"Abilene, TX",29-1122.00,Occupational Therapists,1,11,5,3,8,8
+10180,"Abilene, TX",29-1123.00,Physical Therapists,1,10,5,4,6,9
+10180,"Abilene, TX",29-1127.00,Speech-Language Pathologists,4,18,5,1,17,9
+10180,"Abilene, TX",29-1141.00,Registered Nurses,21,37,15,3,35,30
+10180,"Abilene, TX",29-2021.00,Dental Hygienists,1,11,5,0,11,11
+10180,"Abilene, TX",29-2061.00,Licensed Practical and Licensed Vocational Nurses,17,35,6,3,33,26
+10180,"Abilene, TX",31-1014.00,Nursing Assistants,21,56,5,5,52,49
+10180,"Abilene, TX",31-9091.00,Dental Assistants,14,25,6,2,23,24
+10180,"Abilene, TX",35-2014.00,"Cooks, Restaurant",3,15,5,5,10,11
+10180,"Abilene, TX",37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,21,16,6,11,5,12
+10180,"Abilene, TX",37-2012.00,Maids and Housekeeping Cleaners,16,11,5,1,10,6
+10180,"Abilene, TX",41-1011.00,First-Line Supervisors of Retail Sales Workers,21,26,14,11,14,17
+10180,"Abilene, TX",41-2031.00,Retail Salespersons,17,22,8,6,16,19
+10180,"Abilene, TX",41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",14,15,10,12,3,8
+10180,"Abilene, TX",41-9099.00,"Sales and Related Workers, All Other",21,46,9,15,32,42
+10180,"Abilene, TX",43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,20,19,10,2,16,9
+10180,"Abilene, TX",43-4051.00,Customer Service Representatives,21,97,19,20,76,65
+10180,"Abilene, TX",43-4051.03,Patient Representatives,3,15,6,2,13,13
+10180,"Abilene, TX",43-4171.00,Receptionists and Information Clerks,14,12,10,0,12,9
+10180,"Abilene, TX",43-5081.00,Stock Clerks and Order Fillers,1,10,5,5,5,7
+10180,"Abilene, TX",43-9061.00,"Office Clerks, General",16,12,8,1,11,6
+10180,"Abilene, TX",43-9199.00,"Office and Administrative Support Workers, All Other",21,23,10,1,22,8
+10180,"Abilene, TX",49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",21,11,8,11,0,5
+10180,"Abilene, TX",49-9071.00,"Maintenance and Repair Workers, General",21,67,25,66,2,42
+10180,"Abilene, TX",51-1011.00,First-Line Supervisors of Production and Operating Workers,13,13,10,12,2,5
+10180,"Abilene, TX",51-4121.06,"Welders, Cutters, and Welder Fitters",2,33,5,33,0,25
+10180,"Abilene, TX",53-3032.00,Heavy and Tractor-Trailer Truck Drivers,9,18,7,18,0,9
+10180,"Abilene, TX",53-3041.00,Taxi Drivers and Chauffeurs,21,32,12,31,1,22
+10180,"Abilene, TX",53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",4,11,5,11,0,5
+10420,"Akron, OH",11-1011.00,Chief Executives,21,322,200,239,85,78
+10420,"Akron, OH",11-1021.00,General and Operations Managers,21,288,156,184,103,120
+10420,"Akron, OH",11-2011.00,Advertising and Promotions Managers,15,14,12,6,7,7
+10420,"Akron, OH",11-2021.00,Marketing Managers,21,137,99,76,62,57
+10420,"Akron, OH",11-2022.00,Sales Managers,21,366,231,261,106,139
+10420,"Akron, OH",11-3011.00,Administrative Services Managers,21,28,25,15,13,6
+10420,"Akron, OH",11-3021.00,Computer and Information Systems Managers,21,64,48,51,12,15
+10420,"Akron, OH",11-3031.00,Financial Managers,21,101,66,48,52,25
+10420,"Akron, OH",11-3031.01,Treasurers and Controllers,21,36,34,21,15,15
+10420,"Akron, OH",11-3031.02,"Financial Managers, Branch or Department",6,41,35,24,17,14
+10420,"Akron, OH",11-3051.00,Industrial Production Managers,21,98,51,76,22,37
+10420,"Akron, OH",11-3051.01,Quality Control Systems Managers,21,44,36,26,18,14
+10420,"Akron, OH",11-3061.00,Purchasing Managers,21,35,30,18,18,13
+10420,"Akron, OH",11-3071.01,Transportation Managers,15,16,13,13,4,6
+10420,"Akron, OH",11-3071.02,Storage and Distribution Managers,21,43,30,36,6,14
+10420,"Akron, OH",11-3071.03,Logistics Managers,21,29,15,19,9,14
+10420,"Akron, OH",11-3111.00,Compensation and Benefits Managers,2,10,10,2,8,3
+10420,"Akron, OH",11-3121.00,Human Resources Managers,21,113,59,21,92,39
+10420,"Akron, OH",11-3131.00,Training and Development Managers,17,17,16,6,11,7
+10420,"Akron, OH",11-9021.00,Construction Managers,21,20,13,13,7,11
+10420,"Akron, OH",11-9031.00,"Education Administrators, Preschool and Childcare Center/Program",1,15,5,0,15,2
+10420,"Akron, OH",11-9033.00,"Education Administrators, Postsecondary",9,11,8,0,11,4
+10420,"Akron, OH",11-9039.00,"Education Administrators, All Other",6,11,10,2,8,6
+10420,"Akron, OH",11-9041.00,Architectural and Engineering Managers,21,40,36,40,0,9
+10420,"Akron, OH",11-9051.00,Food Service Managers,21,34,11,21,13,11
+10420,"Akron, OH",11-9081.00,Lodging Managers,6,13,10,4,9,8
+10420,"Akron, OH",11-9111.00,Medical and Health Services Managers,21,128,41,38,90,62
+10420,"Akron, OH",11-9121.01,Clinical Research Coordinators,6,31,7,3,28,15
+10420,"Akron, OH",11-9141.00,"Property, Real Estate, and Community Association Managers",21,29,13,5,24,9
+10420,"Akron, OH",11-9151.00,Social and Community Service Managers,21,56,25,17,39,16
+10420,"Akron, OH",11-9199.00,"Managers, All Other",21,279,138,166,115,100
+10420,"Akron, OH",11-9199.04,Supply Chain Managers,20,34,29,24,10,15
+10420,"Akron, OH",11-9199.07,Security Managers,6,13,12,10,3,4
+10420,"Akron, OH",13-1031.02,"Insurance Adjusters, Examiners, and Investigators",17,16,7,5,12,4
+10420,"Akron, OH",13-1041.00,Compliance Officers,15,15,13,2,14,5
+10420,"Akron, OH",13-1051.00,Cost Estimators,21,25,16,20,5,9
+10420,"Akron, OH",13-1071.00,Human Resources Specialists,21,109,78,20,89,60
+10420,"Akron, OH",13-1081.00,Logisticians,6,14,10,5,9,4
+10420,"Akron, OH",13-1111.00,Management Analysts,21,59,43,31,28,30
+10420,"Akron, OH",13-1121.00,"Meeting, Convention, and Event Planners",1,10,9,3,7,4
+10420,"Akron, OH",13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",8,16,16,3,14,9
+10420,"Akron, OH",13-1151.00,Training and Development Specialists,21,24,17,8,16,8
+10420,"Akron, OH",13-1161.00,Market Research Analysts and Marketing Specialists,21,217,45,78,140,86
+10420,"Akron, OH",13-1199.00,"Business Operations Specialists, All Other",6,25,16,9,16,12
+10420,"Akron, OH",13-2011.00,Accountants and Auditors,13,13,7,5,8,4
+10420,"Akron, OH",13-2011.01,Accountants,21,147,91,42,104,56
+10420,"Akron, OH",13-2011.02,Auditors,5,11,7,7,5,4
+10420,"Akron, OH",13-2051.00,Financial Analysts,21,43,30,25,17,22
+10420,"Akron, OH",13-2052.00,Personal Financial Advisors,14,13,8,9,4,7
+10420,"Akron, OH",13-2053.00,Insurance Underwriters,21,18,9,6,12,7
+10420,"Akron, OH",13-2072.00,Loan Officers,21,66,20,23,43,39
+10420,"Akron, OH",13-2099.02,Risk Management Specialists,1,12,5,2,10,8
+10420,"Akron, OH",15-1121.00,Computer Systems Analysts,21,42,23,29,12,21
+10420,"Akron, OH",15-1122.00,Information Security Analysts,1,10,10,9,1,8
+10420,"Akron, OH",15-1131.00,Computer Programmers,21,50,31,41,10,11
+10420,"Akron, OH",15-1132.00,"Software Developers, Applications",6,21,13,18,3,16
+10420,"Akron, OH",15-1133.00,"Software Developers, Systems Software",21,109,55,97,13,52
+10420,"Akron, OH",15-1134.00,Web Developers,8,11,7,8,3,3
+10420,"Akron, OH",15-1141.00,Database Administrators,14,13,11,10,3,6
+10420,"Akron, OH",15-1142.00,Network and Computer Systems Administrators,21,42,31,35,7,18
+10420,"Akron, OH",15-1143.00,Computer Network Architects,17,17,14,15,2,4
+10420,"Akron, OH",15-1151.00,Computer User Support Specialists,21,87,53,61,26,48
+10420,"Akron, OH",15-1199.02,Computer Systems Engineers/Architects,8,13,13,12,1,7
+10420,"Akron, OH",15-1199.03,Web Administrators,1,10,7,2,8,3
+10420,"Akron, OH",15-1199.09,Information Technology Project Managers,20,15,10,12,3,5
+10420,"Akron, OH",17-2061.00,Computer Hardware Engineers,21,20,19,17,3,9
+10420,"Akron, OH",17-2071.00,Electrical Engineers,21,16,13,16,0,8
+10420,"Akron, OH",17-2112.00,Industrial Engineers,21,95,42,78,17,46
+10420,"Akron, OH",17-2141.00,Mechanical Engineers,21,29,18,28,0,8
+10420,"Akron, OH",17-2199.00,"Engineers, All Other",21,79,50,74,8,29
+10420,"Akron, OH",17-2199.04,Manufacturing Engineers,21,24,17,21,3,11
+10420,"Akron, OH",17-3013.00,Mechanical Drafters,4,11,7,10,1,6
+10420,"Akron, OH",17-3019.00,"Drafters, All Other",6,16,10,14,2,7
+10420,"Akron, OH",17-3023.01,Electronics Engineering Technicians,6,11,10,11,0,3
+10420,"Akron, OH",17-3029.00,"Engineering Technicians, Except Drafters, All Other",14,14,9,11,3,4
+10420,"Akron, OH",17-3029.09,Manufacturing Production Technicians,5,12,10,11,1,5
+10420,"Akron, OH",19-1042.00,"Medical Scientists, Except Epidemiologists",6,12,9,4,8,5
+10420,"Akron, OH",19-2031.00,Chemists,19,17,11,10,7,11
+10420,"Akron, OH",19-4099.01,Quality Control Analysts,21,68,41,36,32,27
+10420,"Akron, OH",21-1012.00,"Educational, Guidance, School, and Vocational Counselors",4,14,8,4,10,11
+10420,"Akron, OH",21-1021.00,"Child, Family, and School Social Workers",3,24,5,4,20,16
+10420,"Akron, OH",21-1023.00,Mental Health and Substance Abuse Social Workers,8,16,5,4,12,10
+10420,"Akron, OH",21-1029.00,"Social Workers, All Other",13,12,9,1,12,8
+10420,"Akron, OH",21-1093.00,Social and Human Service Assistants,4,16,6,3,14,13
+10420,"Akron, OH",21-2011.00,Clergy,16,13,6,9,4,8
+10420,"Akron, OH",23-1011.00,Lawyers,21,43,22,22,21,20
+10420,"Akron, OH",23-2011.00,Paralegals and Legal Assistants,21,19,10,3,16,9
+10420,"Akron, OH",23-2093.00,"Title Examiners, Abstractors, and Searchers",6,11,6,2,9,6
+10420,"Akron, OH",25-1072.00,"Nursing Instructors and Teachers, Postsecondary",9,11,6,1,10,5
+10420,"Akron, OH",25-2011.00,"Preschool Teachers, Except Special Education",1,19,5,0,19,13
+10420,"Akron, OH",25-2021.00,"Elementary School Teachers, Except Special Education",5,16,6,4,12,8
+10420,"Akron, OH",25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education",4,11,6,3,8,8
+10420,"Akron, OH",25-3099.00,"Teachers and Instructors, All Other",2,11,6,5,6,10
+10420,"Akron, OH",25-9041.00,Teacher Assistants,20,53,6,2,51,44
+10420,"Akron, OH",27-1024.00,Graphic Designers,20,26,21,11,14,14
+10420,"Akron, OH",27-1026.00,Merchandise Displayers and Window Trimmers,13,19,7,8,11,11
+10420,"Akron, OH",27-3031.00,Public Relations Specialists,6,20,15,4,16,11
+10420,"Akron, OH",27-3041.00,Editors,9,14,7,7,7,2
+10420,"Akron, OH",27-3042.00,Technical Writers,14,11,9,5,5,5
+10420,"Akron, OH",29-1031.00,Dietitians and Nutritionists,6,11,7,0,11,8
+10420,"Akron, OH",29-1051.00,Pharmacists,4,10,8,3,7,5
+10420,"Akron, OH",29-1062.00,Family and General Practitioners,21,38,8,31,7,18
+10420,"Akron, OH",29-1071.00,Physician Assistants,6,13,5,2,11,12
+10420,"Akron, OH",29-1122.00,Occupational Therapists,4,11,9,5,5,8
+10420,"Akron, OH",29-1123.00,Physical Therapists,21,16,7,6,10,11
+10420,"Akron, OH",29-1126.00,Respiratory Therapists,1,10,8,2,8,7
+10420,"Akron, OH",29-1127.00,Speech-Language Pathologists,4,10,5,0,10,6
+10420,"Akron, OH",29-1141.00,Registered Nurses,21,158,43,21,137,106
+10420,"Akron, OH",29-1171.00,Nurse Practitioners,12,15,10,2,13,9
+10420,"Akron, OH",29-2041.00,Emergency Medical Technicians and Paramedics,12,46,5,33,13,26
+10420,"Akron, OH",29-2052.00,Pharmacy Technicians,5,23,5,1,22,12
+10420,"Akron, OH",29-2061.00,Licensed Practical and Licensed Vocational Nurses,21,88,17,7,81,68
+10420,"Akron, OH",29-2071.00,Medical Records and Health Information Technicians,21,31,15,2,29,14
+10420,"Akron, OH",31-1011.00,Home Health Aides,18,798,6,262,534,497
+10420,"Akron, OH",31-1014.00,Nursing Assistants,21,148,21,27,121,107
+10420,"Akron, OH",31-2021.00,Physical Therapist Assistants,1,10,8,3,7,6
+10420,"Akron, OH",31-9092.00,Medical Assistants,21,24,10,3,21,14
+10420,"Akron, OH",33-2011.00,Firefighters,15,40,5,39,1,7
+10420,"Akron, OH",33-3051.01,Police Patrol Officers,21,54,9,51,3,14
+10420,"Akron, OH",33-9032.00,Security Guards,21,91,12,88,4,22
+10420,"Akron, OH",33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",9,46,6,14,31,36
+10420,"Akron, OH",35-1011.00,Chefs and Head Cooks,21,35,8,29,6,22
+10420,"Akron, OH",35-2014.00,"Cooks, Restaurant",21,53,13,22,31,31
+10420,"Akron, OH",35-2021.00,Food Preparation Workers,4,24,5,12,12,16
+10420,"Akron, OH",35-3011.00,Bartenders,20,23,6,9,14,18
+10420,"Akron, OH",35-3022.00,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",16,24,7,6,18,22
+10420,"Akron, OH",35-3031.00,Waiters and Waitresses,21,228,16,47,182,155
+10420,"Akron, OH",35-3041.00,"Food Servers, Nonrestaurant",1,12,5,3,9,12
+10420,"Akron, OH",35-9021.00,Dishwashers,21,50,7,35,15,37
+10420,"Akron, OH",37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers,21,60,29,36,23,33
+10420,"Akron, OH",37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",20,53,6,19,34,47
+10420,"Akron, OH",37-2012.00,Maids and Housekeeping Cleaners,21,82,23,18,64,66
+10420,"Akron, OH",37-3011.00,Landscaping and Groundskeeping Workers,15,57,7,54,3,38
+10420,"Akron, OH",39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",21,19,7,10,10,13
+10420,"Akron, OH",39-9031.00,Fitness Trainers and Aerobics Instructors,14,32,6,6,26,16
+10420,"Akron, OH",41-1011.00,First-Line Supervisors of Retail Sales Workers,21,103,44,39,63,47
+10420,"Akron, OH",41-2011.00,Cashiers,21,128,10,29,98,102
+10420,"Akron, OH",41-2031.00,Retail Salespersons,21,88,29,40,47,65
+10420,"Akron, OH",41-3041.00,Travel Agents,1,12,5,3,9,4
+10420,"Akron, OH",41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",21,15,13,11,4,6
+10420,"Akron, OH",41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",21,185,92,123,62,82
+10420,"Akron, OH",41-9011.00,Demonstrators and Product Promoters,16,72,6,11,61,60
+10420,"Akron, OH",41-9022.00,Real Estate Sales Agents,3,10,6,3,7,6
+10420,"Akron, OH",41-9031.00,Sales Engineers,12,11,10,10,1,3
+10420,"Akron, OH",41-9041.00,Telemarketers,21,93,40,61,32,30
+10420,"Akron, OH",41-9099.00,"Sales and Related Workers, All Other",21,189,43,78,111,156
+10420,"Akron, OH",43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,21,133,90,30,104,42
+10420,"Akron, OH",43-3011.00,Bill and Account Collectors,21,113,12,19,94,50
+10420,"Akron, OH",43-3021.02,"Billing, Cost, and Rate Clerks",21,55,28,9,45,27
+10420,"Akron, OH",43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",21,104,59,9,95,36
+10420,"Akron, OH",43-3061.00,Procurement Clerks,6,11,11,3,8,7
+10420,"Akron, OH",43-3071.00,Tellers,21,54,7,9,45,28
+10420,"Akron, OH",43-4051.00,Customer Service Representatives,21,522,129,142,380,324
+10420,"Akron, OH",43-4051.03,Patient Representatives,17,26,9,1,25,13
+10420,"Akron, OH",43-4081.00,"Hotel, Motel, and Resort Desk Clerks",5,17,7,7,10,13
+10420,"Akron, OH",43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",8,18,8,6,12,14
+10420,"Akron, OH",43-4171.00,Receptionists and Information Clerks,21,70,45,5,65,43
+10420,"Akron, OH",43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",21,43,12,18,25,33
+10420,"Akron, OH",43-5061.00,"Production, Planning, and Expediting Clerks",21,43,26,20,23,16
+10420,"Akron, OH",43-5071.00,"Shipping, Receiving, and Traffic Clerks",21,68,34,48,20,31
+10420,"Akron, OH",43-5081.00,Stock Clerks and Order Fillers,21,664,16,369,296,635
+10420,"Akron, OH",43-5081.03,"Stock Clerks- Stockroom, Warehouse, or Storage Yard",21,43,23,36,8,22
+10420,"Akron, OH",43-6011.00,Executive Secretaries and Executive Administrative Assistants,21,24,21,2,22,8
