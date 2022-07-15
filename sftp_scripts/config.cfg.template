@@ -1,0 +1,8 @@
+# Specify your credentials accordingly
+[GCP]
+HOST_NAME        = 34.70.98.207
+USERNAME         = kennedy
+PASSWORD         = MSP4UcheKC@1470
+CREDENTIAL_PATH  = storage_credentials.json
+BUCKET_NAME      = stfp-bucket-test
+PROJECT_ID       = My First Project
